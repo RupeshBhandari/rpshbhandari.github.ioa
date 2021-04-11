@@ -1,19 +1,19 @@
-Have you been annoyed with all the email that you receive as email newsletters from different sites? Do you feel uncomfortable to share your email with someone you've just met? Do you need to access to a site just for short span?
+Have you been annoyed with all the emails that you receive such as newsletters from different sites? Do you feel uncomfortable sharing your email with someone you've just met? Do you need access to a site just for a short span?
 
-Well, you have come to the proper place! Before we get into the technical aspect lets talk about YOP mail.
+Well, you have come to the proper place! Before we get into the technical aspect let's talk about YOP mail.
 
 What is Yopmail?
-Yopmail is one of those disposable email services provider. Yes, you've read it correctly! It's actually disposable. 
+Yopmail is one of those disposable email service providers. Yes, you've read it correctly! It's disposable. 
 
-Why to use it?
-Well, whyn't use it for everything! 
+Why use it?
+Well, why not use it for everything! 
 - It simply protects your identity across the web
 
-    It has been a new practice where you need to verify email just to access the service the provider provides. Earlier you could have registered with a friends email(whom you hate!) and accessed the site and let them deal with the spam messages. Lol! However, Now you've to verify the email first to access the site or any other services. So, with a disposable email you could just simply enter any email address ending in 'yopmail.com' and check the email for the otp sent by the site you want to enter. Search for th OTP message in the inbox and enter it in the site. Vola! No more spam on you personal email! 
+    It has been a new practice where you need to verify email just to access the service the provider provides. Earlier you could have registered with a friend's email(whom you hate!) and accessed the site and let them deal with the spam messages. Lol! However, now you've to verify the email first to access the site or any other services. So, with a disposable email, you could just simply enter any email address ending in 'yopmail.com' and check the email for the OTP sent by the site you want to enter. Search for the OTP message in the inbox and enter it on the site. Vola! No more spam on your email! 
 - It doesn't require a password
 
     With Yopmail, you don’t need to log in using the mail account or provide any other information. Instead, you can just create it and access it without any password.
-    
+
 - Email alias feature
 
     Just like we have mentioned above, Yopmail doesn’t require a password to access the inbox mails. However, the security of the emails you receive is assured with a feature called mail alias. Yopmail will be generated upon creating your Yopmail account.
@@ -22,7 +22,7 @@ Well, whyn't use it for everything!
 
 - Automatic deletion of emails
 
-    With Yopmail, your emails will be kept only for a predefined time. As a matter of fact, the emails you receive on the Yopmail inbox will be kept only for eight days. The system will delete the emails after that period.
+    With Yopmail, your emails will be kept only for a predefined time. The emails you receive on the Yopmail inbox will be kept only for eight days. The system will delete the emails after that period.
 
 - Yopmail allows you to forward mails to another email account conveniently
 
@@ -36,12 +36,12 @@ Well, whyn't use it for everything!
 The but in this case are:
 - You should remember is that Yopmail (and other disposable email accounts) are not protected.
 
-    In other words, emails that come under the aforesaid account number can be accessed by other users. This problem can't be avioded but it can be 'somewhat' reduced by choosing a ultra-ultra-ultra unique email address. Phew, thats a lot of ultras!
-- Emails received on the Yopmail will stay only for a period of 8 days.
+    In other words, emails that come under the aforesaid account number can be accessed by other users. This problem can't be avoided but it can be 'somewhat' reduced by choosing an ultra-ultra-ultra unique email address. Phew, that's a lot of ultras!
+- Emails received on the Yopmail will stay only for 8 days.
 
-    The emails will only be for short period of time as compared to gmail, yahoo.
+    The emails will only be for a short period as compared to Gmail, yahoo.
 
-- Some of the internet-based services actually block disposable email addresses
+- Some of the internet-based services block disposable email addresses
 
     In that case, you will not be able to use a disposable email address to signup for them. In this case, you can use an email address created through an additional domain to signup for such services.
 
@@ -51,11 +51,8 @@ How to create a Yopmail?
 1. Go to 'http://www.yopmail.com/en/'
 ![Step 1](assets/images/Yopmail/1.png) 
 
-2. Enter any email address of your choice. However, I would recommend using a ultra-unique one otherwise you might end of wasting alot of you time searching for that particular email!
+2. Enter any email address of your choice. However, I would recommend using an ultra-unique one otherwise you might end up wasting a lot of your time searching for that particular email!
 ![Step 2](assets/images/Yopmail/2.png) 
 
-3. You will find the otp as shown below.
+3. You shall find the messages that come to your inbox as shown below.
 ![Step 3](assets/images/Yopmail/3.png) 
-
-
-
