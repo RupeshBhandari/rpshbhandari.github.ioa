@@ -32,6 +32,7 @@ Customizable according to your needs:
 ---
 
 *** Improve your communication skills with Premium ***
+
 Take your writing and communication skills from good to great with our advanced features and suggestions.
 
 Grammarly Premium helps you find the right tone, gives you real-time feedback, and helps you expand your vocabulary by suggesting impactful and vivid words to bring your post, social media post or email to life.
@@ -55,5 +56,4 @@ By installing the keyboard, you agree to Grammarly’s terms and conditions (www
 - Login is optional
 
 ---
-
-<button ><a href="https://bit.ly/3ocL6ph" target="_blank">Download</a></button>
+<a href="https://bit.ly/3ocL6ph" target="_blank">Download</a>
