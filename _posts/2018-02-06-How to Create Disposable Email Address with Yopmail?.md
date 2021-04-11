@@ -13,6 +13,7 @@ Well, whyn't use it for everything!
 - It doesn't require a password
 
     With Yopmail, you don’t need to log in using the mail account or provide any other information. Instead, you can just create it and access it without any password.
+    
 - Email alias feature
 
     Just like we have mentioned above, Yopmail doesn’t require a password to access the inbox mails. However, the security of the emails you receive is assured with a feature called mail alias. Yopmail will be generated upon creating your Yopmail account.
@@ -22,8 +23,11 @@ Well, whyn't use it for everything!
 - Automatic deletion of emails
 
     With Yopmail, your emails will be kept only for a predefined time. As a matter of fact, the emails you receive on the Yopmail inbox will be kept only for eight days. The system will delete the emails after that period.
+
 - Yopmail allows you to forward mails to another email account conveniently
+
     This option becomes very handy, especially if the email account has some specific information. For instance, it becomes handy when usernames, passwords, or security questions are available in the received email. With many of the other disposable emails, you don’t get the option of forwarding the emails. If you get usernames or other critical information on such an email account, the information will be lost. So, if you prefer keeping the information, the forwarding option becomes very handy.
+
 - Websites sell their users’ email addresses to third parties for advertising and various other purposes.
 
 
@@ -34,9 +38,11 @@ The but in this case are:
 
     In other words, emails that come under the aforesaid account number can be accessed by other users. This problem can't be avioded but it can be 'somewhat' reduced by choosing a ultra-ultra-ultra unique email address. Phew, thats a lot of ultras!
 - Emails received on the Yopmail will stay only for a period of 8 days.
+
     The emails will only be for short period of time as compared to gmail, yahoo.
 
 - Some of the internet-based services actually block disposable email addresses
+
     In that case, you will not be able to use a disposable email address to signup for them. In this case, you can use an email address created through an additional domain to signup for such services.
 
 
