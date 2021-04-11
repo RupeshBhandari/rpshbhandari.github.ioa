@@ -7,10 +7,14 @@ Yopmail is one of those disposable email services provider. Yes, you've read it 
 
 Why to use it?
 Well, whyn't use it for everything! 
-- It simply protects your identity across the web. 
+- It simply protects your identity across the web:
+    It has been a new practice where you need to verify email just to access the service the provider provides. Earlier you could have registered with a friends email(whom you hate!) and accessed the site and let them deal with the spam messages. Lol! However, Now you've to verify the email first to access the site or any other services. So, with a disposable email you could just simply enter any email address ending in 'yopmail.com' and check the email for the otp sent by the site you want to enter. Search for th OTP message in the inbox and enter it in the site. Vola! No more spam on you personal email! 
+- It doesn't require a password.
+    With Yopmail, you don’t need to log in using the mail account or provide any other information. Instead, you can just create it and access it without any password.
+-     
 - Websites sell their users’ email addresses to third parties for advertising and various other purposes.
 
-It has been a new practice where you need to verify email just to access the service the provider provides. Earlier you could have registered with a friends email(whom you hate!) and accessed the site and let them deal with the spam messages. Lol! However, Now you've to verify the email first to access the site or any other services. So, with a disposable email you could just simply enter any email address ending in 'yopmail.com' and check the email for the otp sent by the site you want to enter. Search for th OTP message in the inbox and enter it in the site. Vola! No more spam on you personal email!
+
 
 How to create a Yopmail?
 1. Go to 'http://www.yopmail.com/en/'
@@ -25,7 +29,7 @@ How to create a Yopmail?
 ##### But! Why is there a but in everything? 
 
 The but in this case are:
-- You should remember is that Yopmail (and other disposable email accounts) are not protected.  
+- You should remember is that Yopmail (and other disposable email accounts) are not protected.
 In other words, emails that come under the aforesaid account number can be accessed by other users. This problem can't be avioded but it can be 'somewhat' reduced by choosing a ultra-ultra-ultra unique email address. Phew, thats a lot of ultras!
 - Emails received on the Yopmail will stay only for a period of 8 days.
 
