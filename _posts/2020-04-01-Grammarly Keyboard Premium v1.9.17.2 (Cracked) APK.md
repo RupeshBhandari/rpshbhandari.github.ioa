@@ -56,4 +56,5 @@ By installing the keyboard, you agree to Grammarly’s terms and conditions (www
 - Login is optional
 
 ---
-<a href="https://bit.ly/3ocL6ph" target="_blank">Download</a>
+<p style="text-align:center">
+<a href="https://bit.ly/3ocL6ph" target="_blank">Download</a></p>
